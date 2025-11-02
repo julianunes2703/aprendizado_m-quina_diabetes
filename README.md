@@ -23,6 +23,38 @@ A aplicação de algoritmos de *Machine Learning* pode auxiliar na **detecção 
   - `xgboost` — algoritmo de boosting otimizado
   - `lightgbm` — boosting leve e eficiente desenvolvido pela Microsoft
 
----
+## Etapas da Análise
+
+Importação e limpeza dos dados
+
+Substituição de valores inválidos (zeros) por NaN e preenchimento com a mediana.
+
+Padronização das variáveis numéricas.
+
+Divisão treino/teste
+
+70% para treino e 30% para teste (com estratificação para manter proporção entre classes).
+
+Modelagem
+
+## Algoritmos utilizados:
+
+Regressão Logística
+
+Random Forest
+
+XGBoost
+
+LightGBM
+
+Avaliação
+
+## Métricas: Acurácia, Precisão, Recall, F1-score e ROC-AUC
+
+## Visualizações:
+
+Importância das variáveis em cada modelo
+
+Matrizes de confusão para comparação dos acertos e erros
 
 
