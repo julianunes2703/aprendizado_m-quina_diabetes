@@ -35,9 +35,9 @@ Divisão treino/teste
 
 70% para treino e 30% para teste (com estratificação para manter proporção entre classes).
 
-Modelagem
-
-## Algoritmos utilizados:
+## Modelagem
+ 
+ Algoritmos utilizados:
 
 Regressão Logística
 
@@ -47,11 +47,11 @@ XGBoost
 
 LightGBM
 
-Avaliação
+## Avaliação
 
-## Métricas: Acurácia, Precisão, Recall, F1-score e ROC-AUC
+ Métricas: Acurácia, Precisão, Recall, F1-score e ROC-AUC
 
-## Visualizações:
+ Visualizações:
 
 Importância das variáveis em cada modelo
 
